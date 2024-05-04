@@ -1,0 +1,5 @@
+npx create-react-app my-app
+server.js in Root folder
+rest 3 files in src folder
+open one terminal type node server.js
+open second terminal type npm start
